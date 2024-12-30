@@ -5,4 +5,4 @@ Made By:
 Muhammad Ali Hassan,
 Syed Muhammad Hasan Zulfiqar,
 Wania Adnan and
-Asfaar Maham Ghazi
+Asfaar Maham Ghazi  DISCLAIMER: THIS IS ONLY MADE USING HTML AND CSS, FOR FUTURE IMPROVEMENTS, WE CAN ADD JAVASCRIPT TO MAKE IT FUNCTIONAL AND ADD OTHER FEATURES TOO
